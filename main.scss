@@ -3,7 +3,7 @@
 */
 $yellow: #eeff31;
 $propName: #2cdc8b;
-$stirng: #c3602c;
+$string: #c3602c;
 $var: #67cdf0;
 $bracket: #da63a1;
 
@@ -26,6 +26,9 @@ body {
 .yellow { color: $yellow; }
 .class { color: #2a93ea;; }
 .propName { color: $propName; }
+.var { color: $var; }
+.string { color: $string; }
+.bracket { color: $bracket; }
 
 .code-1 {
   z-index: 1;
