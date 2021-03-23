@@ -37,7 +37,9 @@ $comment: green;
     border-color: #fff;
   }
 }
-
+html {
+  scroll-behavior: smooth;
+}
 body {
   background: #466368;
   background: -webkit-linear-gradient(#648880, #293f50);
